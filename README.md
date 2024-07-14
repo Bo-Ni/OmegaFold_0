@@ -47,7 +47,7 @@ To prepare the environment to run OmegaFold,
 - from source
 
 ```commandline
-pip install https://github.com/Bo-Ni/OmegaFold_0.git
+pip install git+https://github.com/Bo-Ni/OmegaFold_0.git
 ```
 
 - clone the repository
